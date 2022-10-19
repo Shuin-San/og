@@ -94,7 +94,7 @@ const getStyle = (
     justify-content: center;
     align-items: center;
 
-    background: ${query.theme === 'dark' ? '#222' : '#fff'};
+    background: ${query.theme === 'dark' ? '#111827' : '#fff'};
     color: ${query.theme === 'dark' ? 'white' : 'black'};
 
     text-align: center;
