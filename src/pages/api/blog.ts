@@ -54,7 +54,7 @@ export default withOGImage<'query', keyof typeof QueryEnum>({
                     </span>
                   </h1>
                   <div class="social">
-                    <img class="social_img" src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/45434376_10157133877332446_8182866984778596352_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=SOZV07ESGGkAX_OuSDw&_nc_oc=AQn92cRqwjhgg3jm90ix2uuOzoCri4n05MuyOEOFAU1Vs4-GMWig2BkwPPpfxeuLSou3ZRa6vWCAK81Sl_Ohwi7v&_nc_ht=scontent-bru2-1.xx&oh=00_AT9VPKEsfapPyewCzgXkwo9HSzNA_fjrcjwMvyc6YS6XtA&oe=63732A5F">
+                    <img class="social_img" src="${deploymentURL}/images/vza.jpg">
                     <div class="social_info">
                       <p class="name">Vassilios Zalimidis</p>
                       <p class="twitter">@zalimidis</p>
